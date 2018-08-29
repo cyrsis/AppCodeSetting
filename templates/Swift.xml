@@ -22,4 +22,10 @@
       <option name="swift.lang.statement.context" value="true" />
     </context>
   </template>
+  <template name="extension4x4+" value="extension float4x4 { // extension on the self float 4 x 4 Matrix&#10;&#10;    var translation: float3 {&#10;&#10;        let translation = self.columns.3&#10;&#10;        return float3(translation.x, translation.y, translation.z)&#10;    }&#10;}" description="{$statemtn$}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="swift.lang.declaration.context" value="true" />
+      <option name="swift.lang.statement.context" value="true" />
+    </context>
+  </template>
 </templateSet>
