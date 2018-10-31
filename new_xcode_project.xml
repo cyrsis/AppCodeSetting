@@ -1,0 +1,11 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/Documents/Dev" />
+    <string key="organizationName" value="___FULLUSERNAME___" />
+    <string key="languageChoice" value="Swift" />
+    <string key="bundleIdentifierPrefix" value="tech.blockmanic" />
+    <boolean key="hasUnitTests" value="false" />
+    <boolean key="coreData" value="false" />
+    <boolean key="hasUITests" value="false" />
+  </component>
+</application>
